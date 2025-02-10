@@ -65,7 +65,7 @@ class _GallaryPageState extends State<GallaryPage> {
             //   ),
            //   ElevatedButton(onPressed:(){} , child:const Icon(Icons.search) ),
             const SizedBox(
-              height: 10,
+              height: 11,
             ),
             Expanded(
               child:
