@@ -44,7 +44,7 @@ class _GallaryPageState extends State<GallaryPage> {
       appBar: AppBar(
         title: const Text(
           'Gallery Page',
-          style: TextStyle(fontSize: 28),
+          style: TextStyle(fontSize: 29),
         ),
         centerTitle: true,
       
@@ -65,7 +65,7 @@ class _GallaryPageState extends State<GallaryPage> {
             //   ),
            //   ElevatedButton(onPressed:(){} , child:const Icon(Icons.search) ),
             const SizedBox(
-              height: 10,
+              height: 11,
             ),
             Expanded(
               child:
