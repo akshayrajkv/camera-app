@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
               ),
               Text('Open Camera',
               style: TextStyle(
-                fontSize: 25,
+                fontSize: 24,
                 color: Colors.purple
               ),),
             ],
