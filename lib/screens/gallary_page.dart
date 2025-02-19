@@ -44,7 +44,7 @@ class _GallaryPageState extends State<GallaryPage> {
       appBar: AppBar(
         title: const Text(
           'Gallery Page',
-          style: TextStyle(fontSize: 29),
+          style: TextStyle(fontSize: 28),
         ),
         centerTitle: true,
       
