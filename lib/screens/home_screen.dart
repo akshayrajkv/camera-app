@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
       appBar:AppBar(
         title:const Text('Photo Capture App',
         style: TextStyle(color: Colors.purple,
-        fontSize: 28,
+        fontSize: 26,
         fontWeight: FontWeight.bold,
         fontStyle: FontStyle.normal),),
         centerTitle: true,
