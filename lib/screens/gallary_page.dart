@@ -43,7 +43,7 @@ class _GallaryPageState extends State<GallaryPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Gallery Page',
+          'Gallery ',
           style: TextStyle(fontSize: 27),
         ),
         centerTitle: true,
